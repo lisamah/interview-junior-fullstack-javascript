@@ -6,6 +6,11 @@
 $ npm install
 ```
 
+## Select a port
+
+- duplicate .env.example
+- rename the duplicate to .env
+
 ## Running the app
 
 ```bash
